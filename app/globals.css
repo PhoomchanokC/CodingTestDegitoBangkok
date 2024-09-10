@@ -20,6 +20,11 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
+.layout{
+  display: flex;
+  border: black 1vw solid black;
+}
+
 @layer utilities {
   .text-balance {
     text-wrap: balance;

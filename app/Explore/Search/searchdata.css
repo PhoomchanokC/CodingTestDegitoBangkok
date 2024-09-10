@@ -1,0 +1,73 @@
+@media only screen and (min-width: 768px) {
+    .explore-main{
+        margin-left: 3.5vw;
+    }
+    .searchbar{
+        background-color: #DFE4F2 ;
+        width: 46vw;
+        margin-top: 3vh;
+        height: 5vh;
+        border-radius: 0.5vw;
+   }
+
+    .header{
+        padding-top: 5vh;
+        font-size: 2rem;
+        color:#2B45D9;
+    }
+
+    .transport{
+        padding-top: 3vh;
+        padding-bottom: 2vh;
+        display: flex;
+        justify-content: center;
+    }
+
+    .topic-transport{
+        padding-right: 3vw;
+        justify-content: center;
+        display: block; 
+        
+        
+    }
+    .locationsearch{
+        width: 46vw;
+        margin-top: 2.5vh;
+        height: 7vh;
+        border-color: #2B45D9;
+        border-width: 0.02vw;
+    }
+    .datepicker{
+        border-color: #c1c7d7;
+        margin-top: 1vh;
+        width: 23vw;
+        border-width: 0.02vw;
+        height: 7vh;
+    }
+    .text-input{
+        width: 46vw;
+        margin-top: 1vh;
+        height: 6.5vh;
+        border-color: #c1c7d7;
+        border-width: 0.02vw;
+    }
+
+    .container-btn-search{
+        margin-top: 4vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    .btn-search{
+        width: 12vw;
+        height: 7vh;
+        color: white;
+        background-color: #2B45D9;
+    }
+    .test{
+        border: 10px black solid;
+    }
+    h6{
+        padding-top: 1vh;
+    }
+    }

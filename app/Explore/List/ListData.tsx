@@ -1,9 +1,9 @@
 import React from 'react'
-
+import './listdata.css'
 const ListData = () => {
   return (
-    <div>
-      ListData
+    <div className='recently-search '>
+      Recently Search
     </div>
   )
 }

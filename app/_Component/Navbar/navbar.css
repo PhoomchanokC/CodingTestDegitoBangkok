@@ -1,0 +1,74 @@
+@media only screen and (min-width: 768px) {
+    .main {
+      display: flex;
+      flex-direction: column;
+      height: 100vh;
+      width: 14vh;
+      border-radius: 5vh;
+      align-items: center;
+      justify-content: center;
+      background-color: #2B45D9;
+      color: white;
+      font-size: 0.6rem;
+      margin-left: -2vw;
+    }
+  
+    .icon-center {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .space {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: space-around; /* Distribute space evenly */
+      height: 50%; /* Adjust to center items vertically */
+      padding-top: 0; /* Reduce padding to center better */
+    }
+  
+    .sub {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      margin-left: 1vw;
+    }
+  
+    .text-navbar-center {
+      display: flex;
+      justify-content: center;
+      text-align: center;
+      width: 100%;
+    }
+  
+    .circle {
+      background-color: #FFD700;
+      border-radius: 50%;
+      padding: 1vh;
+    
+      justify-content: center;
+      align-items: center;
+      width: 10vh;
+      height: 10vh;
+    }
+  
+    .active-icon {
+      color: #FFD700;
+    }
+  
+    .active-circle {
+      background-color: #FFD700;
+      padding: 1vh;
+      width: 6.5vh;
+      height: 6.5vh;
+    }
+  
+    .fix {
+      margin-left: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  }
+  
